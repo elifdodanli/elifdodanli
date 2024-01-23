@@ -1,7 +1,7 @@
 ### Hi there 🤍
 
 
-## 💌 About me 💌
+## 🎀 About me 🎀
 I'm Elif Dodanlı. I'm studying math right now. In addition to that I'm trying to self-learn programming.
 
 
