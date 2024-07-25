@@ -2,8 +2,7 @@
 
 
 ## 🎀 About me 🎀
-I'm Elif Dodanlı. I'm studying math right now. In addition to that I'm trying to self-learn programming.
-
+I'm Elif Dodanlı, a mathematics student with a passion for self-learning in programming. I'm constantly exploring new technologies and expanding my skills in the tech world.
 
 ## 💌 links 💌
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@elifdodanli) 
