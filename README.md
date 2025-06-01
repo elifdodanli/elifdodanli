@@ -1,12 +1,44 @@
-### Hi there 🤍
+<h1 align="center">Hi there, I'm Elif 💐</h1>
+
+<p align="center">
+  🚀 Mobile Developer | 🎀 Lifelong Learner
+</p>
+
+---
+
+### 👩‍💻 About Me
+
+- 🎓 I'm studying Mathematics and learning software development.
+- 🤍 I love building apps that help people become more productive and organized.
+- 💻 Currently learning **Flutter** and deepening my **Swift** skills.
+- 🌸 I’m passionate about **cars**, **personal growth**, and finding creative ways to merge technology with everyday life.
+
+---
+
+### 🔧 Tech Stack
+
+- **Languages**: Swift, Dart, Python  
+- **Frameworks**: SwiftUI, UIKit, Flutter  
+- **Tools**: Xcode, VS Code
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elifdodanli&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifdodanli&layout=compact&theme=radical" />
+</p>
+
+---
 
 
-## 🎀 About me 🎀
-I'm Elif Dodanlı, a mathematics student with a passion for self-learning in programming. I'm constantly exploring new technologies and expanding my skills in the tech world.
 
-## 💌 links 💌
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@elifdodanli) 
+### ✨ Let's Connect
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=your-linkedin-profile-link)](https://www.linkedin.com/in/elif-dodanlı-a38352247?originalSubdomain=tr)
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/elif-dodanlı/) or [Medium](https://medium.com/@elifdodanli)  
+- 💌 Always happy to chat about tech, creativity, or personal growth!
 
+---
 
+> 
