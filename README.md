@@ -23,17 +23,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elifdodanli&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifdodanli&layout=compact&theme=radical" />
-</p>
-
----
-
-
-
 ### ✨ Let's Connect
 
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/elif-dodanlı/) or [Medium](https://medium.com/@elifdodanli)  
