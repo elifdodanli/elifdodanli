@@ -21,8 +21,7 @@
 
 **Frameworks**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter" />
-  <img src="https://skillicons.dev/icons?i=apple" title="SwiftUI" alt="SwiftUI" />
+  <img src="https://skillicons.dev/icons?i=flutter,swift" />
 </p>
 
 **Tools**  
