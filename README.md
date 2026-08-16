@@ -9,25 +9,35 @@
 ### 👩‍💻 About Me
 
 - 🎓 I'm studying Mathematics and learning software development.
-- 🤍 I love building apps that help people become more productive and organized.
-- 💻 Currently learning **Flutter** and deepening my **Swift** skills.
-- 🌸 I’m passionate about **cars**, **personal growth**, and finding creative ways to merge technology with everyday life.
-
+- 💻 Currently building [vitaflow](https://vitaflow-landing.netlify.app) and other fun projects.
+- 🤍 Just a genuinely curious person who gets excited about learning new things (mostly into tech, cognitive neuroscience, cars, reading, and journaling).
 ---
+### ☕️ Tech Inventory
 
-### 🔧 Tech Stack
+**Languages**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=swift,dart,py" />
+</p>
 
-- **Languages**: Swift, Dart, Python  
-- **Frameworks**: SwiftUI, UIKit, Flutter  
-- **Tools**: Xcode, VS Code
+**Frameworks**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter" />
+  <img src="https://skillicons.dev/icons?i=apple" title="SwiftUI" alt="SwiftUI" />
+</p>
+
+**Tools**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git" />
+  <img src="https://skillicons.dev/icons?i=apple" title="Xcode" alt="Xcode" />
+</p>
 
 ---
 
 ### ✨ Let's Connect
 
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/elif-dodanlı/) or [Medium](https://medium.com/@elifdodanli)  
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/elif-dodanlı/), [Substack](https://substack.com/@elifdodanli) or [Medium](https://medium.com/@elifdodanli)  
 - 💌 Always happy to chat about tech, creativity, or personal growth!
 
 ---
 
-> 
+> Building systems that make daily life simpler and more intentional.
